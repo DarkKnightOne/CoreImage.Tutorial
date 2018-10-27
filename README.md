@@ -1,2 +1,2 @@
 # CoreImage.Tutorial
-tutorail examples of Core Image
+tutorial examples of Core Image
